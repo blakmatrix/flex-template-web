@@ -297,6 +297,7 @@
   "InboxPage.stateEnquiry": "Enquiry",
   "InboxPage.statePending": "Pending",
   "InboxPage.stateRequested": "Requested",
+  "InboxPage.stateUnknown": "Unknown",
   "InboxPage.title": "Inbox",
   "LandingPage.schemaDescription": "Book a sauna using Saunatime or earn some income by sharing your sauna",
   "LandingPage.schemaTitle": "Book saunas everywhere | {siteTitle}",

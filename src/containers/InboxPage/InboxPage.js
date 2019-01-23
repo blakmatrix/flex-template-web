@@ -133,7 +133,9 @@ const txState = (intl, tx, isOrder) => {
       bookingClassName: css.bookingNoActionNeeded,
       lastTransitionedAtClassName: css.lastTransitionedAtNotEmphasized,
       stateClassName: css.stateNoActionNeeded,
-      state: 'Unknown',
+      state: intl.formatMessage({
+        id: 'InboxPage.stateUnknown',
+      }),
     };
   }
 };
